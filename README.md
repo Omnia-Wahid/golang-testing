@@ -1,1 +1,1 @@
-# golamg-testing
+# golang-testing
